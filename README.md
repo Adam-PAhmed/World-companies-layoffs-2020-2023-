@@ -1,5 +1,5 @@
 
-# World Companies’ Layoffs (2020–2023)
+# World Companies Layoffs Analysis (2020–2023)
 
 ## Summary:
 
