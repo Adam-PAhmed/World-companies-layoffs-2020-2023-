@@ -4,7 +4,7 @@
 ## Summary:
 
 An end-to-end analysis of company layoffs world wide between 2020 and 2023 from 52 countries and 31 different industries.
-![Dashboard preview] (Power BI dashboard.png)
+![Dashboard preview] (Power-BI-dashboard.png)
 
 **Objective:** Identify trends in layoffs by funding stage and company size, and assess the impact of external events (e.g. COVID-19).
 
